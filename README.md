@@ -66,6 +66,7 @@
   </text>
 </svg>
 
+# <img src="https://img.shields.io/npm/v/gbit-db-dados?style=for-the-badge&label=npm&color=CB3837&logo=npm&logoColor=white" alt="npm version" valign="middle"> GBIT DB dados
 # gbit-db-dados
 
 GBIT DB Dados
@@ -272,13 +273,13 @@ Tudo em texto legível — você pode abrir, ler e até editar os arquivos manua
 
 MIT
 
+## Banco de dados: `gbit-db-dados` integrado ao backend
+
 <p align="center">
-  <img
-    src="assets/gbit-db-dados-motor.png"
-    alt="GBIT-DB-DADOS — Motor validado e pronto para uso"
-    width="600"
-  />
+  <img src="assets/imagem-modo-uso-dados.png" alt="gbit-db-dados integrado ao backend" width="920">
 </p>
+
+O `gbit-db-dados` roda dentro do próprio `gbit-database` — não é um serviço separado que você precisa conectar. Assim que o servidor sobe na porta `4200`, o banco já está funcionando.
 
 
 # gbit-db-dados
