@@ -71,7 +71,7 @@
 
 GBIT DB Dados
 
-📦 [Pacote no NPM](https://www.npmjs.com/package/gbit-db-dados) · 💻 [Repositório no GitHub](https://github.com/Gislaine-programadora)
+📦 [Pacote no NPM](https://www.npmjs.com/package/gbit-db-dados) · 💻 [Repositório no GitHub](https://github.com/Gislaine-web3)
 
 **Banco de dados criação própria do Gbit — moderno, leve e sem dependências externas.**
 
